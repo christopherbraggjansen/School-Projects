@@ -1,6 +1,5 @@
 ######################################################################
 # Author: Christopher Jansen
-# Assignment: A0
 #Python version: 2.7
 # Purpose: To test out the installation of python and the pyscripter ide
 # and to play around with a few features of the python language.
